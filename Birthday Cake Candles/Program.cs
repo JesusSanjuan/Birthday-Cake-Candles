@@ -29,10 +29,8 @@ namespace Birthday_Cake_Candles
                 {
                      cantidadvelas = el.Count;
                     break;
-                }
-                
+                }                
             }
-
             return cantidadvelas;
         }
 
